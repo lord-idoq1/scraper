@@ -1,9 +1,9 @@
 {
-    "name": "@bochilteam/scraper-root",
+    "name": "@bochilteam/scraperr-root",
     "private": true,
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/BochilTeam/scraper.git"
+        "url": "git+https://github.com/lord-idoq1/scraper.git"
     },
     "scripts": {
         "compile": "turbo run compile --parallel --color --filter=!@bochilteam/scraper && turbo run compile --color --filter=@bochilteam/scraper",
